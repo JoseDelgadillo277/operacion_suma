@@ -12,5 +12,6 @@ El script implementa la suma de dos números y realiza la validación de los ope
   ### Equipo de desarrollo
   | Apellidos y Nombres | Rol |
   | --------------- | -------------- |
-  | Perez, Juan | Jefe de proyecto |
-  | Ore, Julio | Analista |
+  | 1 | Jefe de proyecto |
+  | 2 | Analista |
+
